@@ -81,7 +81,7 @@ Finally, we serialized our best model (`best_gbr_model.pkl`) and scaler (`scaler
 
 ## 🔧 Dependencies & Setup
 - **Python 3.8+**, **Jupyter Notebook**  
-- **pandas**, **numpy**, **scikit-learn**, **joblib**, **matplotlib**, **xgboost** (or `sklearn.ensemble.GradientBoostingRegressor`)  
+- **pandas**, **numpy**, **seaborn**, **joblib**, **scikit-learn**, **joblib**, **matplotlib**, **xgboost** (or `sklearn.ensemble.GradientBoostingRegressor`)  
 - Install essentials with:
   ```bash
   pip install pandas numpy scikit-learn matplotlib joblib xgboost
